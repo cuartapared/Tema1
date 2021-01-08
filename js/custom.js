@@ -25,5 +25,5 @@ $('.navbar-collapse form a').click(function() {
 });
 
 $('.carousel').carousel({
-  interval: 0
+  interval: 3000
 })
